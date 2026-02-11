@@ -14,9 +14,9 @@ const Contact = () => {
   
 
 
-  const handleSubmit = (e) => {
+  const handleSubmit = () => {
 
-    e.preventDefault();
+    
   
 
   fetch("https://backend-941t.onrender.com/submit", {
