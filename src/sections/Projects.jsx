@@ -12,7 +12,7 @@ const projects = [
     tech: ["HTML", "CSS", "JavaScript", "API"],
     image: weather,
     link: "https://github.com/amandayashankarmaurya-tech/Digital-Clock.git",
-    live: "https://your-weather-app.onrender.com",
+    live: "https://weather-wgrk.onrender.com",
   },
   {
     title: "Typing Master Practice App",
@@ -21,7 +21,7 @@ const projects = [
     tech: ["HTML", "CSS", "JavaScript"],
     image: typic,
     link: "https://github.com/amandayashankarmaurya-tech/TypicMaster.git",
-    live: "#",
+    live: "https://typicmaster.onrender.com",
   },
   {
     title: "DigitalClock Application",
@@ -30,7 +30,7 @@ const projects = [
     tech: ["React", "JavaScript", "Tailwind CSS"],
     image: digital,
     link: "https://github.com/amandayashankarmaurya-tech/Digital-Clock.git",
-    live: "#",
+    live: "https://digital-clock-6s48.onrender.com",
   },
   {
     title: "Online Tutorial Website",
@@ -40,7 +40,6 @@ const projects = [
     image: titorial,
     link: "#",
     live: "#",
-    
   },
 ];
 
